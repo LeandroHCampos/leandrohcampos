@@ -51,7 +51,7 @@
   </a>
   &nbsp; 
   <a href="https://github.com/Equipe-S-U-L-ADS-2-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Equipe-S-U-L-ADS-2-API&repo=Equipe-S-U-L-ADS-2-API&theme=aura" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Equipe-S-U-L-ADS-2-API&repo=API&theme=aura" />
   </a>
 </div>
 ---
