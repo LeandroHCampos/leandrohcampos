@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou Leandro</h1>
+<p align="center">Estudante de ADS | Entusiasta de Tecnologia | Em transição de carreira 🚀</p>
 
-<!--
-**LeandroHCampos/leandrohcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📚 Sobre mim
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos
+- 💻 Estudando **Java, Python, HTML, CSS, Git, GitHub, Flask, AWS e LLMs**
+- 📌 Apaixonado por aprender, ensinar e desenvolver soluções criativas
+- 🔍 Em busca da **primeira oportunidade profissional** na área de tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrohcampos&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leti-10&layout=compact&langs_count=7&theme=aura"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=leandrohcampos&theme=aura&locale=pt_BR"/>
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrohcampos)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandrohcampos)
+
+---
+
+### ✨ Projetos em destaque
+- 🧠 **IDE de testes com LLM**: Uma interface interativa para testar códigos com inteligência artificial (Java + Ollama)
+- 🌐 **Site sobre Scrum**: Projeto didático explicando a metodologia ágil Scrum com quiz e FAQ
+
+---
+
+📌 *Este README está sempre em construção, assim como minha jornada na tecnologia :)*
