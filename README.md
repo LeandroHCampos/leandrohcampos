@@ -44,8 +44,10 @@
 ---
 
 ### ✨ Projetos em destaque
-- 🧠 **IDE de testes com LLM**: Uma interface interativa para testar códigos com inteligência artificial (Java + Ollama)
-- 🌐 **Site sobre Scrum**: Projeto didático explicando a metodologia ágil Scrum com quiz e FAQ
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Os-Python-On&repo=API-OsPythonOn&theme=aura)](https://github.com/Os-Python-On/API-OsPythonOn)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Equipe-S-U-L-ADS-2-API&repo=Equipe-S-U-L-ADS-2-API&theme=aura)](https://github.com/Equipe-S-U-L-ADS-2-API)
+
+   <div/>
 
 ---
 
