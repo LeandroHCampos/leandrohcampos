@@ -44,10 +44,13 @@
 ---
 
 ### ✨ Projetos em destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Os-Python-On&repo=API-OsPythonOn&theme=aura)](https://github.com/Os-Python-On/API-OsPythonOn)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Equipe-S-U-L-ADS-2-API&repo=Equipe-S-U-L-ADS-2-API&theme=aura)](https://github.com/Equipe-S-U-L-ADS-2-API)
 
-   <div/>
+<div align="center">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Os-Python-On&repo=API-OsPythonOn&theme=aura)](https://github.com/Os-Python-On/API-OsPythonOn)
+  &nbsp; 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Equipe-S-U-L-ADS-2-API&repo=Equipe-S-U-L-ADS-2-API&theme=aura)](https://github.com/Equipe-S-U-L-ADS-2-API)
+</div>
+
 
 ---
 
