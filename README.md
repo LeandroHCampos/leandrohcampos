@@ -46,12 +46,14 @@
 ### ✨ Projetos em destaque
 
 <div align="center">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Os-Python-On&repo=API-OsPythonOn&theme=aura)](https://github.com/Os-Python-On/API-OsPythonOn)
+  <a href="https://github.com/Os-Python-On/API-OsPythonOn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Os-Python-On&repo=API-OsPythonOn&theme=aura" />
+  </a>
   &nbsp; 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Equipe-S-U-L-ADS-2-API&repo=Equipe-S-U-L-ADS-2-API&theme=aura)](https://github.com/Equipe-S-U-L-ADS-2-API)
+  <a href="https://github.com/Equipe-S-U-L-ADS-2-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Equipe-S-U-L-ADS-2-API&repo=Equipe-S-U-L-ADS-2-API&theme=aura" />
+  </a>
 </div>
-
-
 ---
 
 📌 *Este README está sempre em construção, assim como minha jornada na tecnologia :)*
