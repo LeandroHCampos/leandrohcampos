@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Eu sou Leandro</h1>
-<p align="center">Estudante de ADS | Entusiasta de Tecnologia | Em transição de carreira 🚀</p>
+<p align="center">Estudante de ADS | Entusiasta de Tecnologia </p>
 
 ---
 
@@ -7,7 +7,6 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos
 - 💻 Estudando **Java, Python, HTML, CSS, Git, GitHub, Flask, AWS e LLMs**
 - 📌 Apaixonado por aprender, ensinar e desenvolver soluções criativas
-- 🔍 Em busca da **primeira oportunidade profissional** na área de tecnologia
 
 ---
 
