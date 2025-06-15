@@ -5,7 +5,7 @@
 
 ### 📚 Sobre mim
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos
-- 💻 Estudando **Java, Python, HTML, CSS, Git, GitHub, Flask, AWS e LLMs**
+- 💻 Estudando **Java, Python, React, Spring, SpringBoot, Flask, AWS e LLMs**
 - 📌 Apaixonado por aprender, ensinar e desenvolver soluções criativas
 
 ---
